@@ -1,0 +1,9 @@
+C:\Users\Rene.Lombard\Documents\Visual Studio 2015\Projects\TestDatabase\Repo.Audit\bin\Debug\Repo.Audit.dll
+C:\Users\Rene.Lombard\Documents\Visual Studio 2015\Projects\TestDatabase\Repo.Audit\bin\Debug\Repo.Audit.pdb
+C:\Users\Rene.Lombard\Documents\Visual Studio 2015\Projects\TestDatabase\Repo.Audit\obj\Debug\Repo.Audit.csprojResolveAssemblyReference.cache
+C:\Users\Rene.Lombard\Documents\Visual Studio 2015\Projects\TestDatabase\Repo.Audit\obj\Debug\Repo.Audit.dll
+C:\Users\Rene.Lombard\Documents\Visual Studio 2015\Projects\TestDatabase\Repo.Audit\obj\Debug\Repo.Audit.pdb
+C:\Users\Rene.Lombard\Documents\Visual Studio 2015\Projects\TestDatabase\Repository\Repo.Audit\bin\Debug\Repo.Audit.dll
+C:\Users\Rene.Lombard\Documents\Visual Studio 2015\Projects\TestDatabase\Repository\Repo.Audit\bin\Debug\Repo.Audit.pdb
+C:\Users\Rene.Lombard\Documents\Visual Studio 2015\Projects\TestDatabase\Repository\Repo.Audit\obj\Debug\Repo.Audit.dll
+C:\Users\Rene.Lombard\Documents\Visual Studio 2015\Projects\TestDatabase\Repository\Repo.Audit\obj\Debug\Repo.Audit.pdb

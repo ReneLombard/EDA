@@ -1,0 +1,5 @@
+c:\users\rene.lombard\documents\visual studio 2013\Projects\TestDatabase\CustomerEntity\obj\Debug\CustomerEntity.csprojResolveAssemblyReference.cache
+c:\users\rene.lombard\documents\visual studio 2013\Projects\TestDatabase\CustomerEntity\bin\Debug\CustomerEntity.dll
+c:\users\rene.lombard\documents\visual studio 2013\Projects\TestDatabase\CustomerEntity\bin\Debug\CustomerEntity.pdb
+c:\users\rene.lombard\documents\visual studio 2013\Projects\TestDatabase\CustomerEntity\obj\Debug\CustomerEntity.dll
+c:\users\rene.lombard\documents\visual studio 2013\Projects\TestDatabase\CustomerEntity\obj\Debug\CustomerEntity.pdb

@@ -1,0 +1,10 @@
+C:\Users\Rene.Lombard\Documents\Visual Studio 2015\Projects\TestDatabase\Audit\obj\Debug\Domain.Audit.csprojResolveAssemblyReference.cache
+C:\Users\Rene.Lombard\Documents\Visual Studio 2015\Projects\TestDatabase\Audit\bin\Debug\Domain.Audit.dll
+C:\Users\Rene.Lombard\Documents\Visual Studio 2015\Projects\TestDatabase\Audit\bin\Debug\Domain.Audit.pdb
+C:\Users\Rene.Lombard\Documents\Visual Studio 2015\Projects\TestDatabase\Audit\obj\Debug\Domain.Audit.dll
+C:\Users\Rene.Lombard\Documents\Visual Studio 2015\Projects\TestDatabase\Audit\obj\Debug\Domain.Audit.pdb
+C:\Users\Rene.Lombard\Documents\Visual Studio 2015\Projects\TestDatabase\Domain\Domain.Audit\bin\Debug\Domain.Audit.dll
+C:\Users\Rene.Lombard\Documents\Visual Studio 2015\Projects\TestDatabase\Domain\Domain.Audit\bin\Debug\Domain.Audit.pdb
+C:\Users\Rene.Lombard\Documents\Visual Studio 2015\Projects\TestDatabase\Domain\Domain.Audit\obj\Debug\Domain.Audit.dll
+C:\Users\Rene.Lombard\Documents\Visual Studio 2015\Projects\TestDatabase\Domain\Domain.Audit\obj\Debug\Domain.Audit.pdb
+C:\Users\Rene.Lombard\Documents\Visual Studio 2015\Projects\TestDatabase\Domain\Domain.Audit\obj\Debug\Domain.Audit.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\Rene.Lombard\Documents\Visual Studio 2015\Projects\TestDatabase\Entity.Customer\bin\Debug\CustomerEntity.dll
+C:\Users\Rene.Lombard\Documents\Visual Studio 2015\Projects\TestDatabase\Entity.Customer\bin\Debug\CustomerEntity.pdb
+C:\Users\Rene.Lombard\Documents\Visual Studio 2015\Projects\TestDatabase\Entity.Customer\obj\Debug\Domain.Customer.csprojResolveAssemblyReference.cache
+C:\Users\Rene.Lombard\Documents\Visual Studio 2015\Projects\TestDatabase\Entity.Customer\obj\Debug\CustomerEntity.dll
+C:\Users\Rene.Lombard\Documents\Visual Studio 2015\Projects\TestDatabase\Entity.Customer\obj\Debug\CustomerEntity.pdb
