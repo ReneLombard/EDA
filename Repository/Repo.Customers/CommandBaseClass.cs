@@ -36,25 +36,7 @@ namespace Repo.Customers
         throw ex;
       }
     }
-
-
-
-
-    //public string InsertCompany(DTO.Customers.ICompany _company)
-    //{
-    //  try
-    //  {
-    //    var company = new Domain.Customers.Company();
-    //    company.ContactNumber = _company.ContactNumber;
-    //    company.Name = _company.Name;
-    //    return InsertCustomer(company);
-    //  }
-    //  catch (Exception ex)
-    //  {
-    //    throw ex;
-
-    //  }
-    //}
+    
 
   }
 }

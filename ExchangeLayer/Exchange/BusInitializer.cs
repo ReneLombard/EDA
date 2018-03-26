@@ -13,23 +13,13 @@ using GreenPipes;
 namespace Exchange
 {
 
-  public class CompanyCustomer : IConsumer<DTO.Customers.Company>
-  {
-
-    public async Task Consume(ConsumeContext<DTO.Customers.Company> context)
-    {
-      await Console.Out.WriteLineAsync("$Adding Company : " + context.Message.Name);
-      return;
-    }
-
-
-  }
+ 
 
   public class BusInitializer
   {
 
 
-    public IBus CreateBus(string queueName)
+    public IBus CreateBus()
     {
       var bus = Bus.Factory.CreateUsingRabbitMq(sbc =>
       {
@@ -40,10 +30,13 @@ namespace Exchange
         });
 
 
-        sbc.ReceiveEndpoint(host, "Pleasework", e =>
-        {
-          e.Consumer(() => new CompanyCustomer());
-      });      });
+      //  sbc.ReceiveEndpoint(host, "Pleasework", e =>
+      //  {
+      //    e.Consumer(() => new CompanyCustomer());
+      //}
+        //);
+
+      });
 
       bus.Start();
       return bus;

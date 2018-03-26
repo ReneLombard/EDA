@@ -21,8 +21,12 @@ namespace MicroService.Customer
           h.Password("guest");
         });
 
+        sbc.ReceiveEndpoint(host, "AddIndividual", e =>
+        {
+          e.Consumer(() => new IndividualCustomer());
+        });
 
-        sbc.ReceiveEndpoint(host, "Pleasework", e =>
+        sbc.ReceiveEndpoint(host, "AddCompany", e =>
         {
           e.Consumer(() => new CompanyCustomer());
         });
